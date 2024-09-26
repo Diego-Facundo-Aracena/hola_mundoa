@@ -8,6 +8,7 @@ namespace ejemplo1
 {
     internal class Botella
     { //metodo recarga: carga al 100 y devuelve el costo de recarga. 50 cada 100
+        //intentar recordar el orden y variables claras,.
         public Botella(string materia, string color) { 
             
             this.material = materia;
